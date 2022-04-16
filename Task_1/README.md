@@ -45,7 +45,7 @@ And then I changed the toInt() function to toDouble() on line 146 to display dec
 
 - pull request to main branch
 
-## Conslusion
+## Conclusion
 <p>
 After completing this task I learned how to work with the Github process
 </p>
