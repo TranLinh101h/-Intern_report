@@ -179,7 +179,7 @@ Future<void> bootApp() async {
         ),
 ```
 
-## Conslusion
+## Conclusion
 
 After completing this task I learned:
 - How to manage simple application state with Provider package.
