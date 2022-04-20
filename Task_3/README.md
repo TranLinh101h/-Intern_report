@@ -123,7 +123,7 @@ homepage: https://github.com/TranLinh101h/glassmorphism_card.git
 
 6. Type 'flutter pub publish --dry-run' in the terminal to check for any warnings
 
-7. Type 'Flashing pub Publishing' in the terminal to publish the package.
+7. Type 'flutter pub publish' in the terminal to publish the package.
 
 ## Conclusion
 
