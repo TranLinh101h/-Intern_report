@@ -13,4 +13,4 @@
 - [Create a repo to report on all tasks during the internship](https://github.com/TranLinh101h/Intern_report/tree/main/Task_3)
 - [Create a package and publish to pub.dev](https://github.com/TranLinh101h/Intern_report/tree/main/Task_4)
 - [Review codes and merge to your maintaining repo](https://github.com/TranLinh101h/Intern_report/tree/main/Task_5)
-- [Review codes and merge to your maintaining repo](https://github.com/TranLinh101h/Intern_report/tree/main/Task_6)
+- [Writing a small app BMI](https://github.com/TranLinh101h/Intern_report/tree/main/Task_6)
